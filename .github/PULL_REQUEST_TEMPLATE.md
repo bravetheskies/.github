@@ -15,5 +15,5 @@
 [//]: # (Extension: https://chrome.google.com/webstore/detail/shopify-theme-helper/palnodkhbhhnaoecdfbifdfpibklccdk)
 
 - [Store](https://XXXXXXXXXX.myshopify.com/?preview_theme_id=XXXXXXXXXX)
-- [Store Editor](https://XXXXXXXXXX.myshopify.com/themes/XXXXXXXXXX/editor)
+- [Store Editor](https://XXXXXXXXXX.myshopify.com/admin/themes/XXXXXXXXXX/editor)
 - [Jira Ticket](https://bravetheskies.atlassian.net/browse/XXXXXXXXXX-XX)
