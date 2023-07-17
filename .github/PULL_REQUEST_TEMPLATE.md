@@ -8,7 +8,6 @@
 
 [//]: # (Instructions on how the Growth Manager or Client can test this. Such as theme settings, metafields etc.)
 
-
 **Preview Links**
 
 [//]: # (Please include a link to a demo store that includes preconfigured sections and settings to allow reviewers to easily test the features you are working on.)
@@ -17,3 +16,7 @@
 - [Store](https://XXXXXXXXXX.myshopify.com/?preview_theme_id=XXXXXXXXXX)
 - [Store Editor](https://XXXXXXXXXX.myshopify.com/admin/themes/XXXXXXXXXX/editor)
 - [Jira Ticket](https://bravetheskies.atlassian.net/browse/XXXXXXXXXX-XX)
+
+**Deployment notes**
+
+[//]: # (Include any notes on extra steps requred when deploying.)
