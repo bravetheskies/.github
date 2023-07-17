@@ -19,4 +19,4 @@
 
 **Deployment notes**
 
-[//]: # (Include any notes on extra steps requred when deploying.)
+[//]: # (Include any notes on extra steps required when deploying.)
