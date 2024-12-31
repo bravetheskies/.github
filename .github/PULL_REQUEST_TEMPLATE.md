@@ -1,17 +1,19 @@
-[//]: # (Developers to use when completing a task and re-assigning to a growth manager - try to be as clear and thorough as possible. Ensure a developer check has been completed before sending over to Growth Manager)
+<!-- Use this template when completing a task. Copy the completed template into the matching Jira task. -->
 
 **What approach did you take to complete this task?**
 
-[//]: # (Instructions on how the work has been completed)
+<!-- Instructions on how the work has been completed -->
 
 **What are the steps to test this solution?**
 
-[//]: # (Instructions on how the Growth Manager or Client can test this. Such as theme settings, metafields etc.)
+<!-- Instructions on how the work be tested. Such as theme settings, metafields etc. -->
 
 **Preview links**
 
-[//]: # (Please include a link to a demo store that includes preconfigured sections and settings to allow reviewers to easily test the features you are working on.)
-[//]: # (Extension: https://chrome.google.com/webstore/detail/shopify-theme-helper/palnodkhbhhnaoecdfbifdfpibklccdk)
+<!-- 
+  Please include a link to a demo store that includes preconfigured sections and settings to allow reviewers to easily test the features you are working on.
+  Extension: https://chrome.google.com/webstore/detail/shopify-theme-helper/palnodkhbhhnaoecdfbifdfpibklccdk
+-->
 
 - [Store preview](https://XXXXXXXXXX.myshopify.com/?preview_theme_id=XXXXXXXXXX)
 - [Store editor](https://XXXXXXXXXX.myshopify.com/admin/themes/XXXXXXXXXX/editor)
@@ -19,4 +21,4 @@
 
 **Deployment notes**
 
-[//]: # (Include any notes on extra steps required when deploying.)
+<!-- Include any notes on extra steps required when deploying. -->
