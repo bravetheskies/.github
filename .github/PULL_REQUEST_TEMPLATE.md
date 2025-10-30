@@ -18,6 +18,7 @@
 - [Store preview](https://XXXXXXXXXX.myshopify.com/?preview_theme_id=XXXXXXXXXX)
 - [Store editor](https://XXXXXXXXXX.myshopify.com/admin/themes/XXXXXXXXXX/editor)
 - [Jira ticket](https://bravetheskies.atlassian.net/browse/XXXXXXXXXX-XX)
+- [Pull request](https://github.com/bravetheskies/XXXXXXXXXX/pull/XX)
 
 **Deployment notes**
 
